@@ -15,7 +15,7 @@ AND
 WISH GOOD LUCK FOR YOU!
 (FINGER CROSS)!!
 
-By the way // if you fall in love with someone plz don't let her or him down
+By the way #if you fall in love with someone plz don't let her or him down
 
 OK let's go !!!!!!(if I wanna say anything else I will append my thought behind this file)
 
