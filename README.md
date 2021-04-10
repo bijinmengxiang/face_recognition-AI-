@@ -20,3 +20,6 @@ By the way #if you fall in love with someone plz don't let her or him down
 OK let's go !!!!!!(if I wanna say anything else I will append my thought behind this file)
 
 ////////////////////////////////////////////////////////////////////////////////////////////////
+AND it's my first time write the introduction by English,
+you might guess more difficult to apprehend my meaning.
+sryyyyyyy!
