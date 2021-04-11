@@ -1,4 +1,4 @@
-# face_dection-AI-
+# face_recongnition-AI-
 Project initial version by HXH.
 
 XMU TKK college innovation project.
@@ -7,7 +7,7 @@ When you see this README,
 Maybe I had became a famous scientist.I guess people always have magnificant dreams???
 
 (OR I'm nobody.) 
-If that, you may the guy who continue my project about Face_Detection.
+If that, you may the guy who continue my project about face_recongnition.
 I hope those records can make you confuse out of your mind.
 
 AND
