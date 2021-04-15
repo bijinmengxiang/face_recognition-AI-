@@ -20,25 +20,38 @@ def face_detection(image,count):
     #路径无意义，为了创建两个图像类型变量
     chop = cv.imread("C:/Users/cnhhdn/Desktop/img/1.jpg")
     grid=image
+    target=90
     for x, y, w, h in faces:
+        print(x, y, w, h)
+        line_x = x+w
+        line_y = y+h
         # 在原图像上绘制矩形标识
         #cv.rectangle(img=image, pt1=(x, y), pt2=(x + w, y + h), color=(0, 0, 255), thickness=2)
         #将红框图片显示
         #cv.imshow('final', image)
         #try为了检验错误
         try:
-            #想要目标图片不大于多少（90）就修改里面数字90
-            if w < 90:
-                x = x - ((90 - w) // 2) - 1
-                w = w + ((90 - w) // 2) + 1
-            if h < 90:
-                y = y - ((90 - h) // 2) - 1
-                h = h + ((90 - h) // 2) + 1
+            if w < target:
+                x = x - ((target - w) // 2) - 1
+                w = w + ((target - w)) + 1
+            if h < target:
+                y = y - ((target - h) // 2) - 1
+                h = h + ((target - h)) + 1
+
             if x<0 or y<0:
-                x=0
-                y=0
+                if x<0 :
+                    w = target
+                else:
+                    w =line_x
+                if y<0:
+                    h = target
+                else:
+                    h = line_y
+                x = 0
+                y = 0
 
             #将图片文件进行切割
+            print(x, y, w, h)
             chop=grid[y:y+h,x:x+ w]
             cv.imwrite("G:\\train_sources\\face_database\\images\\images\\face\\test\\3\\" + str(count) + ".jpg", chop)
         except:
