@@ -24,3 +24,8 @@ OK let's go !!!!!!(if I wanna say anything else I will append my thought behind 
 AND it's my first time write the introduction with English,
 you might guess more difficult to apprehend my meaning.
 sryyyyyyy!
+
+Data folder have dataset that I used.
+mnist_code folder as the name, you can build your first net like helloworld in neural network.
+There are downloading way and crop ways in face-detection folder.
+Face_Recognition folder is about neural network structure and the way of train the net to create a model that could achieve your goals. 
