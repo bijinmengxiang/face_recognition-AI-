@@ -4,4 +4,4 @@ so you should check it after your processing.
 
 crop.py can help you to cut the image if it has face information
 
-DownloadIamge.py as the name, it can help you to download the image that you search
+DownloadIamge.py as the name, it can help you to download the image that you search from BaiduImage
