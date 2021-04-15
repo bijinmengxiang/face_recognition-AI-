@@ -11,3 +11,6 @@ Then I try to use the model in my testset, the Accuracy was 85.22%.
 The learning rate and momentum are 0.015 and 0.5.
 I have already tried other parameter including reduce learning rate and increase Train Epoch,
 the effect is almost as same as first version.
+(when Train Epoch are 80 times and learning rate is 0.1 the Accuracy was increased to 86.2%.)
+
+---------------------------------------------------------------------------------------
