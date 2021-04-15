@@ -21,6 +21,6 @@ OK let's go !!!!!!(if I wanna say anything else I will append my thought behind 
 
 ////////////////////////////////////////////////////////////////////////////////////////////////
 
-AND it's my first time write the introduction by English,
+AND it's my first time write the introduction with English,
 you might guess more difficult to apprehend my meaning.
 sryyyyyyy!
