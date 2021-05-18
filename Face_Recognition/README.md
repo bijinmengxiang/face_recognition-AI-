@@ -14,3 +14,10 @@ the effect is almost as same as first version.
 (when Train Epoch are 80 times and learning rate is 0.1 the Accuracy was increased to 86.2%.)
 
 ---------------------------------------------------------------------------------------
+
+(second_version with SPP)
+This version was build after I laerned spatial pyramid pooling.I added the module (SPP) to substitute the conv4.
+Actually,it was quite effective in my Network. I reduce the learning rate to 0.01.
+(when Train Epoch are 200 times and learning rate is 0.01 the Accuracy was increased to 91.1%.)
+
+-----------------------------------------------------------------
